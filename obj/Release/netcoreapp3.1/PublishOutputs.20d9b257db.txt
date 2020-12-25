@@ -1,0 +1,5 @@
+C:\Users\fpg24\OneDrive\Desktop\Github Repos\Hangman\bin\Release\netcoreapp3.1\publish\Hangman.exe
+C:\Users\fpg24\OneDrive\Desktop\Github Repos\Hangman\bin\Release\netcoreapp3.1\publish\Hangman.dll
+C:\Users\fpg24\OneDrive\Desktop\Github Repos\Hangman\bin\Release\netcoreapp3.1\publish\Hangman.deps.json
+C:\Users\fpg24\OneDrive\Desktop\Github Repos\Hangman\bin\Release\netcoreapp3.1\publish\Hangman.runtimeconfig.json
+C:\Users\fpg24\OneDrive\Desktop\Github Repos\Hangman\bin\Release\netcoreapp3.1\publish\Hangman.pdb
