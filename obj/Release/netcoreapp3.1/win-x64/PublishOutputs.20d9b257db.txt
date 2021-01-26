@@ -1,2 +1,0 @@
-C:\Users\fpg24\OneDrive\Desktop\Github Repos\Hangman\bin\Release\netcoreapp3.1\publish\Hangman.pdb
-C:\Users\fpg24\OneDrive\Desktop\Github Repos\Hangman\bin\Release\netcoreapp3.1\publish\Hangman.exe
